@@ -11,18 +11,15 @@ export const FOOTER_LINKS = [
   {title: 'Overview', links: [
     {label: 'what we do', url: '/solution'},
     {label: 'pricing', url: '/pricing'},
-    {label: 'logistics', url: '/'},
   ]},
   {title: 'Company', links: [
     {label: 'about us', url: '/about'},
     {label: 'contact', url: '/contact'},
-    {label: 'support', url: '/'},
   ]},
   {title: 'Legal', links: [
-    {label: 'terms', url: '/'},
-    {label: 'privacy', url: '/'},
-    {label: 'cookies', url: '/'},
-    {label: 'licenses', url: '/'},
+    {label: 'terms', url: '/terms'},
+    {label: 'cookies', url: '/cookies'},
+    {label: 'licenses', url: '/licenses'},
   ]},
 ]
 

@@ -1,3 +1,4 @@
+import not_found from './images/not-found.png'
 import london_1 from './images/london-1.jpg'
 import london_2 from './images/london-2.jpg'
 import lagos_1 from './images/lagos-1.jpg'
@@ -10,4 +11,5 @@ export {
   logo,
   london_1,
   london_2,
+  not_found,
 }

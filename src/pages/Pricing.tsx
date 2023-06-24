@@ -37,7 +37,7 @@ const Pricing = () => {
           </div>
         ))}
       </div>
-      <p className='text-xl font-bold uppercase mb-10'>
+      <p className='text-sm md:text-xl font-bold uppercase mb-10'>
         <span className='text-red-500'>*</span>Get discount on packages above 100kg
       </p>
       <div className='w-full flex flex-col items-center gap-5 bg-gray-200 px-2 md:px-20 py-10'>
