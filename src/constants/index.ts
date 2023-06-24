@@ -1,0 +1,14 @@
+import { FOOTER_LINKS, NAV_LINKS, SERVICE_ADVS, SOCIAL_LINKS, SOLUTION_TYPES } from './navigation'
+import { SERVICES_, SOLUTION_ } from './services'
+import { PRICING } from './pricing'
+
+export {
+  FOOTER_LINKS,
+  NAV_LINKS,
+  PRICING,
+  SERVICES_ as SERVICES,
+  SERVICE_ADVS,
+  SOCIAL_LINKS,
+  SOLUTION_ as SOLUTIONS,
+  SOLUTION_TYPES,
+}
